@@ -1,4 +1,4 @@
-# react-native-svg-charts
+# react-native-svg-charts - Internal
 
 [![version](https://img.shields.io/npm/v/react-native-svg-charts.svg)](https://www.npmjs.com/package/react-native-svg-charts)
 [![downloads](https://img.shields.io/npm/dm/react-native-svg-charts.svg)](https://www.npmjs.com/package/react-native-svg-charts)
